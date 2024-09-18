@@ -1,11 +1,11 @@
-# Public Cloud
+# Hybrid Cloud
 
-**Public Cloud** beschreibt ein Modell, bei dem Cloud-Dienste von einem Drittanbieter über das Internet bereitgestellt werden. Die Ressourcen werden von mehreren Kunden gemeinsam genutzt (Multi-Tenant-Modell).
+**Hybrid Cloud** kombiniert private und öffentliche Cloud-Dienste und ermöglicht es Unternehmen, Daten und Anwendungen zwischen beiden Umgebungen zu verschieben. Dadurch können Unternehmen sowohl von den Vorteilen der Public Cloud (z. B. Skalierbarkeit) als auch von den Vorteilen der Private Cloud (z. B. Sicherheit) profitieren.
 
-- **Vorteile**: Kosteneffizienz, Skalierbarkeit, keine Wartung.
-- **Nachteile**: Weniger Kontrolle, geteilte Infrastruktur.
-- **Beispiele**: Amazon Web Services (AWS), Microsoft Azure, Google Cloud.
+- **Vorteile**: Flexibilität, optimale Nutzung der Ressourcen.
+- **Nachteile**: Komplexere Verwaltung.
+- **Beispiele**: Microsoft Azure Hybrid, Google Anthos.
 
-![Public Cloud-Architektur](https://www.occloud9.com/wp-content/uploads/2021/01/Public-Cloud.png)
+![Hybrid Cloud-Architektur](https://i2.wp.com/www.cloudnowtech.com/blog/wp-content/uploads/2019/04/Hybrid-Cloud-1140-x-760.jpg?fit=1140%2C760&ssl=1)
 
-[Weiterführende Informationen zur Public Cloud](https://de.wikipedia.org/wiki/Public_Cloud)
+[Weiterführende Informationen zur Hybrid Cloud](https://de.wikipedia.org/wiki/Hybrid_Cloud)
